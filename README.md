@@ -64,7 +64,7 @@
 
 
 <!--Connect With ME icons and links-->
-<p align="center">
+<div align="center">
   <h2>Social Media</h2>
 <a href="https://www.linkedin.com/in/gonzalo-sebastian-k-9b336b216/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10" /></a>
-</p>
+</div>
