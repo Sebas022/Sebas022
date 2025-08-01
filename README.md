@@ -2,7 +2,7 @@
 
 <!--Header Name GIF or Animation-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Gonzalo+Koc;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 <!--- About me-->
@@ -65,5 +65,6 @@
 
 <!--Connect With ME icons and links-->
 <p align="center">
+  <h2>Social Media</h2>
 <a href="https://www.linkedin.com/in/gonzalo-sebastian-k-9b336b216/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10" /></a>
 </p>
